@@ -13,5 +13,5 @@
     ```strawberry server app```
 
 - Graph
-    想要了解嗎？快點點來看看[[Day8] 簡單搞懂GraphQL設計風](https://ithelp.ithome.com.tw/articles/10296040)
-    實作介紹的話，[[Day9] 簡單搞懂GraphQl API Python 實作範例](https://ithelp.ithome.com.tw/articles/10296249)
+    - 想要了解嗎？快點點來看看[[Day8] 簡單搞懂GraphQL設計風](https://ithelp.ithome.com.tw/articles/10296040)
+    - 實作介紹的話，[[Day9] 簡單搞懂GraphQl API Python 實作範例](https://ithelp.ithome.com.tw/articles/10296249)
