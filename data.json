@@ -1,0 +1,26 @@
+[
+    {
+        "channel" : "可不可熟成紅茶",
+        "name" : "熟成紅茶",
+        "price" : "中：30 / 大：35",
+        "info" : "解炸物/燒烤肉類油膩，茶味濃郁帶果香",
+        "url" : "https://www.kebuke.com/product/signature-black-tea/",
+        "img" : "https://www.kebuke.com/wp-content/uploads/2021/01/01-S熟成紅茶-1.jpg"
+    },
+    {
+        "channel" : "可不可熟成紅茶",
+        "name" : "麗春紅茶",
+        "price" : "中：30 / 大：35",
+        "info" : "去除海鮮羶腥，茶味較淡帶花香",
+        "url" : "https://www.kebuke.com/product/nuwara-eliya-black-tea/",
+        "img" : "https://www.kebuke.com/wp-content/uploads/2020/12/胭脂紅茶-1.jpg"
+    },
+    {
+        "channel" : "可不可熟成紅茶",
+        "name" : "太妃紅茶",
+        "price" : "中：35 / 大：40",
+        "info" : "咖啡與茶的神秘比例搭配",
+        "url" : "https://www.kebuke.com/product/black-tea-with-coffee/",
+        "img" : "https://www.kebuke.com/wp-content/uploads/2021/01/03-S太妃紅茶-1.jpg"
+    }
+]
